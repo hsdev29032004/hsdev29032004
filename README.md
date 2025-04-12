@@ -1,1 +1,1 @@
-![Lượt truy cập](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/hsdev29032004&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
+<img src="https://profile-counter.glitch.me/hsdev29032004/count.svg" />
